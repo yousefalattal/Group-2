@@ -5,5 +5,5 @@ fun main() {
     println("Team Member 2 = Fahed")
     println("Team Member 3 = Ayman")
     println("Team Member 4 = AbdelRahman")
-    println("Team Member 5 =Fawzi")
+    println("Team Member 5 = Fawzi")
 }
